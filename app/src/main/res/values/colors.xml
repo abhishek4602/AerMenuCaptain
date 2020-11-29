@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#222222</color>
+    <color name="Grey">#D3D3D3</color>
+    <color name="aermenuGreen">#C0392B</color>
+    <color name="aermenuGrey">#1c2833</color>
+
+    <color name="mgp">#FFC300</color>
+    <color name="bbr">#1c2833</color>
+  <!--  <color name="bbr">#4c1806</color>-->
+    <color name="cnc">#4dc1d6</color>
+</resources>

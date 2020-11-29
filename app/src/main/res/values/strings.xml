@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AerCaptain Beta</string>
+    <string name="tab_text_4">RICE</string>
+    <string name="tab_text_5">DRINKS</string>
+    <string name="tab_text_3">CURRIES</string>
+    <string name="tab_text_2">STARTERS</string>
+    <string name="tab_text_1">SOUPS</string>
+    <string name="cafe_name">BIG BITES BURGERS</string>
+
+    <string name="web_client_id">xxxxxxxx..place your web client id here</string>
+</resources>

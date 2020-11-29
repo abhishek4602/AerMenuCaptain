@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+
+    <style name="MyMaterialTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Add attributes here -->
+
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorHighlight">@color/Grey</item>
+    </style>
+    <style name="AppThemeBBR" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#1c2833</item>
+        <item name="colorAccent">#C0392B</item>
+        <item name="colorHighlight">@color/bbr</item>
+
+    </style>
+    <style name="AppThemeCNC" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#1a2636</item>
+        <item name="colorAccent">#4dc1d6</item>
+        <item name="colorHighlight">@color/cnc</item>
+    </style>
+    <style name="AppThemeMGP" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#1a2636</item>
+        <item name="colorAccent">@color/mgp</item>
+        <item name="colorHighlight">@color/mgp</item>
+    </style>
+</resources>
